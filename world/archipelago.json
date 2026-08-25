@@ -1,0 +1,8 @@
+{
+	"game": "Monster Santuary",
+	"minimum_ap_version": "0.6.7",
+	"world_version": "0.0.1",
+	"authors": ["OnlyLeafeon", "MuratDevelopment"],
+	"version": 1,
+	"compatible_version": 1
+}
