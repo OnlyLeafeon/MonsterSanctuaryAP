@@ -338,7 +338,7 @@ location_table: list[LocationDef] = [
     LocationDef(4650008, '(HB) Treasure Cave - Web Room', 'Horizon Beach'),
     LocationDef(4650009, '(HB) Treasure Cave - Watery Tunnel', 'Horizon Beach'),
     LocationDef(4650010, '(HB) Elderjel Room - Normal Chest', 'Horizon Beach'),
-    LocationDef(4650011, '(HB) Elderjel Room - Special Chest', 'Horizon Beach'),  # TODO: verify - 2 gifts in region, picked first
+    LocationDef(4650011, '(HB) Elderjel Room - Special Chest', 'Horizon Beach'),
     LocationDef(4650012, '(HB) Forgotten World Entrance', 'Horizon Beach'),
     LocationDef(4650013, '(HB) South - Spike Room 2', 'Horizon Beach'),
     LocationDef(4650014, '(HB) South - Spike Room 1', 'Horizon Beach'),
