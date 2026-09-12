@@ -1,24 +1,21 @@
-"""
-Monster Santuary APWorld
-"""
 from typing import Any, Dict
 
 from BaseClasses import ItemClassification, Tutorial
 from worlds.AutoWorld import World, WebWorld
 
-from .items import MonsterSantuaryItem, item_table, item_name_to_id, item_name_groups
-from .locations import MonsterSantuaryLocation, location_table
-from .options import MonsterSantuaryOptions, option_groups
+from .items import MonsterSanctuaryItem, item_table, item_name_to_id, item_name_groups
+from .locations import MonsterSanctuaryLocation, location_table
+from .options import MonsterSanctuaryOptions, option_groups
 from .regions import create_regions as build_regions
 from .rules import set_rules as apply_rules
 
 
-class MonsterSantuaryWebWorld(WebWorld):
+class MonsterSanctuaryWebWorld(WebWorld):
     theme = "grass"
     tutorials = [
         Tutorial(
             "Multiworld Setup Guide",
-            "A guide to setting up Monster Santuary for Archipelago multiworld games.",
+            "A guide to setting up Monster Sanctuary for Archipelago multiworld games.",
             "English",
             "setup_en.md",
             "setup/en",
@@ -27,17 +24,17 @@ class MonsterSantuaryWebWorld(WebWorld):
     ]
 
 
-class MonsterSantuaryWorld(World):
+class MonsterSanctuaryWorld(World):
     """
-    Monster Santuary is a Metroidvania-style monster-taming game. Explore
+    Monster Sanctuary is a Metroidvania-style monster-taming game. Explore
     Monster Sanctuary, capture and train monsters, and take on the game's
     champions and the Mad Lord.
     """
 
-    game = "Monster Santuary"
-    web = MonsterSantuaryWebWorld()
-    options_dataclass = MonsterSantuaryOptions
-    options: MonsterSantuaryOptions
+    game = "Monster Sanctuary"
+    web = MonsterSanctuaryWebWorld()
+    options_dataclass = MonsterSanctuaryOptions
+    options: MonsterSanctuaryOptions
     option_groups = option_groups
 
     location_name_to_id = {location.name: location.id for location in location_table}
@@ -46,9 +43,9 @@ class MonsterSantuaryWorld(World):
 
     data_version = 1
 
-    def create_item(self, name: str) -> MonsterSantuaryItem:
+    def create_item(self, name: str) -> MonsterSanctuaryItem:
         item_def = next(item for item in item_table if item.name == name)
-        return MonsterSantuaryItem(item_def.name, item_def.classification, item_def.id, self.player)
+        return MonsterSanctuaryItem(item_def.name, item_def.classification, item_def.id, self.player)
 
     def create_items(self) -> None:
         item_pool = []
@@ -72,7 +69,7 @@ class MonsterSantuaryWorld(World):
         regions = build_regions(self)
         for location_def in location_table:
             region = regions[location_def.region]
-            region.add_locations({location_def.name: location_def.id}, MonsterSantuaryLocation)
+            region.add_locations({location_def.name: location_def.id}, MonsterSanctuaryLocation)
 
     def set_rules(self) -> None:
         apply_rules(self)
@@ -87,4 +84,5 @@ class MonsterSantuaryWorld(World):
             "underche": self.options.underche.value,
             "forgeche": self.options.forgeche.value,
             "remlore": self.options.remlore.value,
+            "scouhint": self.options.scouhint.value
         }

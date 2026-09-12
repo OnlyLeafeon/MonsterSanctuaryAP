@@ -1,445 +1,445 @@
 monsterlist = {
-    "Spectral Wolf":{
+    "Spectral Wolf": {
         "regions": ["Spectral Familiars", "Eternity's End"],
         "ability": ["Claws"]
     },
-    "Spectral Toad":{
+    "Spectral Toad": {
         "regions": ["Spectral Familiars", "Eternity's End"],
         "ability": ["Tackle"]
     },
-    "Spectral Eagle":{
+    "Spectral Eagle": {
         "regions": ["Spectral Familiars", "Eternity's End"],
         "ability": ["Flying"]
     },
-    "Spectral Lion":{
+    "Spectral Lion": {
         "regions": ["Spectral Familiars", "Eternity's End"],
         "ability": ["Claws"]
     },
-    "Blob":{
+    "Blob": {
         "regions": ["Mountain Path", "Blob Burg"],
         "ability": ["Bubble Burst"]
     },
-    "Magmapillar":{
+    "Magmapillar": {
         "regions": ["Mountain Path", "Ancient Woods"],
         "ability": ["Ignite"]
     },
-    "Rocky":{
+    "Rocky": {
         "regions": ["Mountain Path"],
         "ability": ["Summon Rock"]
     },
-    "Vaero":{
+    "Vaero": {
         "regions": ["Mountain Path", "Horizon Beach"],
         "ability": ["Flying"]
     },
-    "Catzerker":{
+    "Catzerker": {
         "regions": ["Mountain Path"],
         "ability": ["Slash"]
     },
-    "Yowie":{
+    "Yowie": {
         "regions": ["Mountain Path", "Snowy Peaks"],
         "ability": ["Tackle"]
     },
-    "Steam Golem":{
+    "Steam Golem": {
         "regions": ["Mountain Path", "Mystical Workshop"],
         "ability": ["Tackle"]
     },
-    "Monk":{
-        "regions": ["Mountain Path", "Blue Caves"],
+    "Monk": {
+        "regions": ["Mountain Path", "Blue Cave"],
         "ability": ["Heavy Punch"]
     },
-    "Grummy":{
-        "regions": ["Blue Caves", "Stronghold Dungeon"],
+    "Grummy": {
+        "regions": ["Blue Cave", "Stronghold Dungeon"],
         "ability": ["Bubble Burst"]
     },
-    "Tengu":{
-        "regions": ["Blue Caves"],
+    "Tengu": {
+        "regions": ["Blue Cave"],
         "ability": ["Ignite"]
     },
-    "Fungi":{
-        "regions": ["Blue Caves", "Forgotten World"],
+    "Fungi": {
+        "regions": ["Blue Cave", "Forgotten World"],
         "ability": ["Summon Mushroom"]
     },
-    "Frosty":{
-        "regions": ["Blue Caves"],
+    "Frosty": {
+        "regions": ["Blue Cave"],
         "ability": ["Flying"]
     },
-    "Minitaur":{
-        "regions": ["Blue Caves"],
+    "Minitaur": {
+        "regions": ["Blue Cave"],
         "ability": ["Slash"]
     },
-    "Specter":{
-        "regions": ["Blue Caves", "Abandoned Tower"],
+    "Specter": {
+        "regions": ["Blue Cave", "Abandoned Tower"],
         "ability": ["Ignite"]
     },
-    "Crackle Knight":{
+    "Crackle Knight": {
         "regions": ["Stronghold Dungeon"],
         "ability": ["Lightning Bolt"]
     },
-    "G'rulu":{
+    "G'rulu": {
         "regions": ["Stronghold Dungeon"],
         "ability": ["Bubble Burst"]
     },
-    "Mad Eye":{
+    "Mad Eye": {
         "regions": ["Stronghold Dungeon"],
         "ability": ["Flying"]
     },
-    "Nightwing":{
+    "Nightwing": {
         "regions": ["Stronghold Dungeon", "Ancient Woods"],
         "ability": ["Sonar"]
     },
-    "Toxiquus":{
+    "Toxiquus": {
         "regions": ["Stronghold Dungeon", "Horizon Beach"],
         "ability": ["Slime Shot"]
     },
-    "Beetloid":{
+    "Beetloid": {
         "regions": ["Stronghold Dungeon", "Abandoned Tower"],
         "ability": ["Lightning Bolt"]
     },
-    "Druid Oak":{
+    "Druid Oak": {
         "regions": ["Ancient Woods"],
         "ability": ["Ignite"]
     },
-    "Magmamoth":{
+    "Magmamoth": {
         "regions": ["Ancient Woods"],
         "ability": ["Ignite"]
     },
-    "Molebear":{
+    "Molebear": {
         "regions": ["Ancient Woods"],
         "ability": ["Claws"]
     },
-    "Glowfly":{
+    "Glowfly": {
         "regions": ["Ancient Woods", "Magma Chamber"],
         "ability": ["Light"]
     },
-    "Goblin Brute":{
+    "Goblin Brute": {
         "regions": ["Ancient Woods"],
         "ability": ["Toxic Slam"]
     },
-    "Goblin Hood":{
+    "Goblin Hood": {
         "regions": ["Ancient Woods"],
         "ability": ["Fiery Shots"]
     },
-    "Goblin Warlock":{
+    "Goblin Warlock": {
         "regions": ["Ancient Woods"],
         "ability": ["Lightning Bolt"]
     },
-    "Goblin King":{
+    "Goblin King": {
         "regions": ["Ancient Woods"],
         "ability": ["Jewel Blast"]
     },
-    "Raduga":{
+    "Raduga": {
         "regions": ["Ancient Woods", "Abandoned Tower"],
         "ability": ["Flying"]
     },
-    "Ice Blob":{
+    "Ice Blob": {
         "regions": ["Snowy Peaks", "Blob Burg"],
         "ability": ["Freeze"]
     },
-    "Caraglow":{
+    "Caraglow": {
         "regions": ["Snowy Peaks"],
         "ability": ["Light"]
     },
-    "Aurumtail":{
+    "Aurumtail": {
         "regions": ["Snowy Peaks"],
         "ability": ["Mount"]
     },
-    "Megataur":{
+    "Megataur": {
         "regions": ["Snowy Peaks"],
         "ability": ["Freeze"]
     },
-    "Mogwai":{
+    "Mogwai": {
         "regions": ["Snowy Peaks"],
         "ability": ["Snowball Toss"]
     },
-    "Crystal Snail":{
+    "Crystal Snail": {
         "regions": ["Snowy Peaks", "Forgotten World"],
         "ability": ["Jewel Blast"]
     },
-    "Akhlut":{
+    "Akhlut": {
         "regions": ["Snowy Peaks"],
         "ability": ["Sonar Mount"]
     },
-    "Blade Widow":{
+    "Blade Widow": {
         "regions": ["Sun Palace"],
         "ability": ["Slash"]
     },
-    "Ninki":{
+    "Ninki": {
         "regions": ["Null"],
         "ability": ["Slime Shot"]
     },
-    "Ninki Nanka":{
+    "Ninki Nanka": {
         "regions": ["Sun Palace"],
         "ability": ["Slime Shot"]
     },
-    "Vasuki":{
+    "Vasuki": {
         "regions": ["Sun Palace"],
         "ability": ["Tackle"]
     },
-    "Kame":{
+    "Kame": {
         "regions": ["Sun Palace"],
         "ability": ["Summon Rock"]
     },
-    "Sycophantom":{
+    "Sycophantom": {
         "regions": ["Sun Palace"],
         "ability": ["Ghost Form"]
     },
-    "Imori":{
+    "Imori": {
         "regions": ["Sun Palace"],
         "ability": ["Ignite"]
     },
-    "Qilin":{
+    "Qilin": {
         "regions": ["Sun Palace", "Abandoned Tower"],
         "ability": ["Mount"]
     },
-    "Sizzle Knight":{
+    "Sizzle Knight": {
         "regions": ["Null"],
         "ability": ["Lightning Bolt"]
     },
-    "Koi":{
+    "Koi": {
         "regions": ["Horizon Beach"],
         "ability": ["Swimming"]
     },
-    "Tanuki":{
+    "Tanuki": {
         "regions": ["Null"],
         "ability": ["Summon Mushroom"]
     },
-    "Kanko":{
+    "Kanko": {
         "regions": ["Sun Palace"],
         "ability": ["Ghost Form"]
     },
-    "Dodo":{
+    "Dodo": {
         "regions": ["Horizon Beach"],
         "ability": ["Mount"]
     },
-    "Kongamato":{
+    "Kongamato": {
         "regions": ["Horizon Beach", "Forgotten World"],
         "ability": ["Improved Flying"]
     },
-    "Ucan":{
+    "Ucan": {
         "regions": ["Horizon Beach"],
         "ability": ["Slash"]
     },
-    "Brawlish":{
+    "Brawlish": {
         "regions": ["Horizon Beach"],
         "ability": ["Heavy Punch"]
     },
-    "Thornish":{
+    "Thornish": {
         "regions": ["Horizon Beach"],
         "ability": ["Improved Swimming"]
     },
-    "Nautilid":{
+    "Nautilid": {
         "regions": ["Horizon Beach"],
         "ability": ["Improved Swimming"]
     },
-    "Silvaero":{
+    "Silvaero": {
         "regions": ["Horizon Beach"],
         "ability": ["Improved Flying"]
     },
-    "Elderjel":{
+    "Elderjel": {
         "regions": ["Horizon Beach"],
         "ability": ["Improved Swimming"]
     },
-    "Manticorb":{
+    "Manticorb": {
         "regions": ["Mountain Path"],
         "ability": ["Light"]
     },
-    "Goblin Miner":{
+    "Goblin Miner": {
         "regions": ["Magma Chamber"],
         "ability": ["Crush"]
     },
-    "Salahammer":{
+    "Salahammer": {
         "regions": ["Magma Chamber", "Mystical Workshop"],
         "ability": ["Crush"]
     },
-    "Lava Blob":{
+    "Lava Blob": {
         "regions": ["Magma Chamber", "Blob Burg"],
         "ability": ["Ignite"]
     },
-    "Glowdra":{
+    "Glowdra": {
         "regions": ["Magma Chamber", "Forgotten World"],
         "ability": ["Light"]
     },
-    "Draconov":{
+    "Draconov": {
         "regions": ["Magma Chamber"],
         "ability": ["Flying"]
     },
-    "Dracogran":{
+    "Dracogran": {
         "regions": ["Magma Chamber"],
         "ability": ["Improved Flying"]
     },
-    "Asura":{
+    "Asura": {
         "regions": ["Magma Chamber"],
         "ability": ["Crush"]
     },
-    "Skorch":{
+    "Skorch": {
         "regions": ["Null"],
         "ability": ["Ignite"]
     },
-    "Stolby":{
+    "Stolby": {
         "regions": ["Mystical Workshop"],
         "ability": ["Ghost Form"]
     },
-    "Ornithopter":{
+    "Ornithopter": {
         "regions": ["Mystical Workshop"],
         "ability": ["Improved Flying"]
     },
-    "Polterofen":{
+    "Polterofen": {
         "regions": ["Mystical Workshop"],
         "ability": ["Fiery Shots"]
     },
-    "Oculus":{
+    "Oculus": {
         "regions": ["Mystical Workshop"],
         "ability": ["Grapple"]
     },
-    "Mimic":{
+    "Mimic": {
         "regions": ["Mystical Workshop"],
         "ability": ["Fiery Shots"]
     },
-    "Goblin Pilot":{
+    "Goblin Pilot": {
         "regions": ["Mystical Workshop"],
         "ability": ["Crush"]
     },
-    "Shockhopper":{
+    "Shockhopper": {
         "regions": ["Null"],
         "ability": ["Shock Freeze"]
     },
-    "Targoat":{
+    "Targoat": {
         "regions": ["Snowy Peaks"],
         "ability": ["Tackle"]
     },
-    "Dracozul":{
+    "Dracozul": {
         "regions": ["Snowy Peaks"],
         "ability": ["Improved Flying"]
     },
-    "Troll":{
+    "Troll": {
         "regions": ["Ancient Woods"],
         "ability": ["Corrosive Jabs"]
     },
-    "Brutus":{
+    "Brutus": {
         "regions": ["Ancient Woods"],
         "ability": ["Summon Big Rock"]
     },
-    "Mega Rock":{
+    "Mega Rock": {
         "regions": ["Underworld"],
         "ability": ["Summon Big Rock"]
     },
-    "Argiope":{
+    "Argiope": {
         "regions": ["Ancient Woods", "Underworld"],
         "ability": ["Grapple"]
     },
-    "Arachlich":{
+    "Arachlich": {
         "regions": ["Underworld"],
         "ability": ["Grapple"]
     },
-    "Moccus":{
+    "Moccus": {
         "regions": ["Underworld"],
         "ability": ["Mount"]
     },
-    "Promethean":{
+    "Promethean": {
         "regions": ["Underworld"],
         "ability": ["Summon Big Rock"]
     },
-    "Draconoir":{
+    "Draconoir": {
         "regions": ["Underworld"],
         "ability": ["Improved Flying"]
     },
-    "Spinner":{
+    "Spinner": {
         "regions": ["Underworld"],
         "ability": ["Toxic Freeze"]
     },
-    "Plague Egg":{
+    "Plague Egg": {
         "regions": ["Null"],
         "ability": ["Ignite"]
     },
-    "Sutsune":{
+    "Sutsune": {
         "regions": ["Abandoned Tower"],
         "ability": ["Secret Vision"]
     },
-    "Darnation":{
+    "Darnation": {
         "regions": ["Abandoned Tower"],
         "ability": ["Crush"]
     },
-    "Thanatos":{
+    "Thanatos": {
         "regions": ["Abandoned Tower"],
         "ability": ["Secret Vision"]
     },
-    "Rainbow Blob":{
+    "Rainbow Blob": {
         "regions": ["Blob Burg"],
         "ability": ["Blob Form"]
     },
-    "Changeling":{
+    "Changeling": {
         "regions": ["Blob Burg"],
         "ability": ["Morph Ball"]
     },
-    "King Blob":{
+    "King Blob": {
         "regions": ["Blob Burg"],
         "ability": ["Blob Form"]
     },
-    "Worm":{
+    "Worm": {
         "regions": ["Blob Burg"],
         "ability": ["Grapple"]
     },
-    "Vodinoy":{
+    "Vodinoy": {
         "regions": ["Horizon Beach"],
         "ability": ["Levitate"]
     },
-    "Aazerach":{
+    "Aazerach": {
         "regions": ["Stronghold Dungeon"],
         "ability": ["Secret Vision"]
     },
-    "Diavola":{
+    "Diavola": {
         "regions": ["Sun Palace"],
         "ability": ["Levitate"]
     },
-    "Gryphonix":{
+    "Gryphonix": {
         "regions": ["Magma Chamber"],
         "ability": ["Lofty Mount"]
     },
-    "Vertraag":{
+    "Vertraag": {
         "regions": ["Mystical Workshop"],
         "ability": ["Levitate"]
     },
-    "Mad Lord":{
+    "Mad Lord": {
         "regions": ["Abandoned Tower"],
         "ability": ["Secret Vision"]
     },
-    "Ascendant":{
-        "regions": ["Blue Caves"],
+    "Ascendant": {
+        "regions": ["Blue Cave"],
         "ability": ["Secret Vision"]
     },
-    "Fumagus":{
+    "Fumagus": {
         "regions": ["Forgotten World"],
         "ability": ["Spore Shroud"]
     },
-    "Rampede":{
+    "Rampede": {
         "regions": ["Forgotten World"],
         "ability": ["Charging Mount"]
     },
-    "Rathops":{
+    "Rathops": {
         "regions": ["Forgotten World"],
         "ability": ["Charging Mount"]
     },
-    "Krakaturtle":{
+    "Krakaturtle": {
         "regions": ["Forgotten World"],
         "ability": ["Dual Mobility"]
     },
-    "Tar Blob":{
+    "Tar Blob": {
         "regions": ["Forgotten World"],
         "ability": ["Tar Mount"]
     },
-    "Amberlgna":{
+    "Amberlgna": {
         "regions": ["Forgotten World"],
         "ability": ["Spore Shroud"]
     },
-    "Dracomer":{
+    "Dracomer": {
         "regions": ["Forgotten World"],
         "ability": ["Improved Swimming"]
     },
-    "Terradrile":{
+    "Terradrile": {
         "regions": ["Forgotten World"],
         "ability": ["Levitate"]
     },
-    "Bard":{
+    "Bard": {
         "regions": ["Null"],
         "ability": ["Minnesang"]
     },
@@ -447,117 +447,178 @@ monsterlist = {
 
 ability_uses = {
     "Breakable Walls": {
-        "abiltiys": ["Claws", "Tackle", "Slash", "Heavy Punch", "Toxic Slam", "Crush", "Corrosive Jabs", "Charging Mount"]
+        "abilitys": ["Claws", "Tackle", "Slash", "Heavy Punch", "Toxic Slam", "Crush", "Corrosive Jabs", "Charging Mount"]
     },
     "Breakable Walls Advanced": {
-        "abiltiys": ["Charging Mount"]
+        "abilitys": ["Charging Mount"]
     },
     "Impassable Vines": {
-        "abiltiys": ["Claws", "Ignite", "Slash", "Fiery Shots"]
+        "abilitys": ["Claws", "Ignite", "Slash", "Fiery Shots"]
     },
     "Impassable Vines Advanced": {
-        "abiltiys": ["Fiery Shots"]
+        "abilitys": ["Fiery Shots"]
     },
     "Diamond Blocks": {
-        "abiltiys": ["Crush", "Charging Mount"]
+        "abilitys": ["Crush", "Charging Mount"]
     },
     "Diamond Blocks Advanced": {
-        "abiltiys": ["Charging Mount"]
+        "abilitys": ["Charging Mount"]
     },
     "Magic Walls": {
-        "abiltiys": ["Minnesang"]
+        "abilitys": ["Minnesang"]
     },
     "Fire Orbs": {
-        "abiltiys": ["Ignite", "Fiery Shots"]
+        "abilitys": ["Ignite", "Fiery Shots"]
     },
     "Water Orbs": {
-        "abiltiys": ["Bubble Burst", "Corrosive Jabs"]
+        "abilitys": ["Bubble Burst", "Corrosive Jabs"]
     },
     "Lightning Orbs": {
-        "abiltiys": ["Lightning Bolt", "Shock Freeze"]
+        "abilitys": ["Lightning Bolt", "Shock Freeze"]
     },
     "Earth Orbs": {
-        "abiltiys": ["Slime Shot", "Toxic Slam", "Jewel Blast", "Toxic Freeze"]
+        "abilitys": ["Slime Shot", "Toxic Slam", "Jewel Blast", "Toxic Freeze"]
     },
     "Ice Orbs": {
-        "abiltiys": ["Freeze", "Snowball Toss", "Shock Freeze", "Toxic Freeze"]
+        "abilitys": ["Freeze", "Snowball Toss", "Shock Freeze", "Toxic Freeze"]
     },
     "Fire Orbs Advanced": {
-        "abiltiys": ["Fiery Shots"]
+        "abilitys": ["Fiery Shots"]
     },
     "Water Orbs Advanced": {
-        "abiltiys": ["Corrosive Jabs"]
+        "abilitys": ["Corrosive Jabs"]
     },
     "Lightning Orbs Advanced": {
-        "abiltiys": ["Shock Freeze"]
+        "abilitys": ["Shock Freeze"]
     },
     "Earth Orbs Advanced": {
-        "abiltiys": ["Slime Shot", "Jewel Blast", "Toxic Freeze"]
+        "abilitys": ["Slime Shot", "Jewel Blast", "Toxic Freeze"]
     },
     "Ice Orbs Advanced": {
-        "abiltiys": ["Snowball Toss", "Shock Freeze", "Toxic Freeze"]
+        "abilitys": ["Snowball Toss", "Shock Freeze", "Toxic Freeze"]
     },
     "Distant Ledges": {
-        "abiltiys": ["Flying", "Improved Flying", "Lofty Mount", "Dual Mobility"]
+        "abilitys": ["Flying", "Improved Flying", "Lofty Mount", "Dual Mobility"]
     },
     "Distant Ledges Advanced": {
-        "abiltiys": ["Improved Flying", "Lofty Mount", "Dual Mobility"]
+        "abilitys": ["Improved Flying", "Lofty Mount", "Dual Mobility"]
     },
     "Swimming": {
-        "abiltiys": ["Swimming", "Improved Swimming", "Dual Mobility"]
+        "abilitys": ["Swimming", "Improved Swimming", "Dual Mobility"]
     },
     "Swimming Advanced": {
-        "abiltiys": ["Improved Swimming", "Dual Mobility"]
+        "abilitys": ["Improved Swimming", "Dual Mobility"]
     },
     "Mounts": {
-        "abiltiys": ["Mount", "Sonar Mount", "Lofty Mount", "Charging Mount", "Tar Mount"]
+        "abilitys": ["Mount", "Sonar Mount", "Lofty Mount", "Charging Mount", "Tar Mount"]
     },
     "Mounts Advanced": {
-        "abiltiys": ["Sonar Mount", "Lofty Mount", "Charging Mount", "Tar Mount"]
+        "abilitys": ["Sonar Mount", "Lofty Mount", "Charging Mount", "Tar Mount"]
     },
     "Tar": {
-        "abiltiys": ["Dual Mobility", "Tar Mount"]
+        "abilitys": ["Dual Mobility", "Tar Mount"]
     },
     "Tar Advanced": {
-        "abiltiys": ["Dual Mobility"]
+        "abilitys": ["Dual Mobility"]
     },
     "Ground Switches": {
-        "abiltiys": ["Summon Rock", "Summon Mushroom", "Summon Big Rock"]
+        "abilitys": ["Summon Rock", "Summon Mushroom", "Summon Big Rock"]
     },
     "Ground Switches Advanced": {
-        "abiltiys": ["Summon Big Rock"]
+        "abilitys": ["Summon Big Rock"]
     },
     "Heavy Blocks": {
-        "abiltiys": ["Tackle"]
+        "abilitys": ["Tackle"]
     },
     "Torches": {
-        "abiltiys": ["Ignite", "Lightning Bolt", "Fiery Shots"]
+        "abilitys": ["Ignite", "Lightning Bolt", "Fiery Shots"]
     },
     "Torches Advanced": {
-        "abiltiys": ["Fiery Shots"]
+        "abilitys": ["Fiery Shots"]
     },
     "Dark Rooms": {
-        "abiltiys": ["Sonar", "Light", "Sonar Mount"]
+        "abilitys": ["Sonar", "Light", "Sonar Mount"]
     },
     "Dark Rooms Advanced": {
-        "abiltiys": ["Sonar Mount"]
+        "abilitys": ["Sonar Mount"]
     },
     "Grappling Anchors": {
-        "abiltiys": ["Grapple"]
+        "abilitys": ["Grapple"]
     },
     "Narrow Corridors": {
-        "abiltiys": ["Blob Form", "Morph Ball"]
+        "abilitys": ["Blob Form", "Morph Ball"]
     },
     "Big Boulders": {
-        "abiltiys": ["Levitate"]
+        "abilitys": ["Levitate"]
     },
     "Invisible Platforms": {
-        "abiltiys": ["Secret Vision"]
+        "abilitys": ["Secret Vision"]
     },
     "Magical Vines": {
-        "abiltiys": ["Spore Shroud"]
+        "abilitys": ["Spore Shroud"]
     },
     "Intangiblity": {
-        "abiltiys": ["Ghost Form", "Spore Shroud"]
+        "abilitys": ["Ghost Form", "Spore Shroud"]
     }
 }
+
+def normalize_region(region: str) -> str:
+    """'Mountain Path' -> 'MountainPath' (matches locations.json region keys)."""
+    return region.replace(" ", "")
+
+
+def monster_ability(name: str) -> str:
+    """The exploration ability a monster grants (single ability per monster)."""
+    return monsterlist[name]["ability"][0]
+
+
+def monsters_in_region(region: str):
+    """Normalized region name -> list of monster names obtainable there."""
+    region = normalize_region(region)
+    return [name for name, info in monsterlist.items()
+            if any(normalize_region(r) == region for r in info["regions"])]
+
+
+def monsters_with_ability(ability: str):
+    """All monsters that grant the given ability."""
+    return [name for name, info in monsterlist.items() if info["ability"][0] == ability]
+
+
+def abilities_available_in_region(region: str, monster_mapping=None):
+    """Set of exploration abilities available in `region` after randomization.
+
+    When `monster_mapping` (source -> replacement from randomize_monsters) is
+    given, spawn monsters are replaced first, so the returned abilities reflect
+    what the shuffled roster grants.
+    """
+    region = normalize_region(region)
+    names = [name for name, info in monsterlist.items()
+             if any(normalize_region(r) == region for r in info["regions"])]
+    if monster_mapping:
+        names = [(monster_mapping.get(name, name)) for name in names]
+    return {monster_ability(name) for name in names if name in monsterlist}
+
+
+def abilities_for_obstacle(obstacle: str):
+    """The list of abilities that can clear an obstacle type."""
+    return list(ability_uses[obstacle]["abilitys"])
+
+
+def can_clear(obstacle: str, abilities) -> bool:
+    """True if any of `abilities` (iterable of ability names) clears `obstacle`."""
+    return bool(set(abilities_for_obstacle(obstacle)) & set(abilities))
+
+
+def region_clears(region: str, obstacle: str, monster_mapping=None) -> bool:
+    """True if the abilities available in `region` can clear `obstacle`."""
+    return can_clear(obstacle, abilities_available_in_region(region, monster_mapping))
+
+
+if __name__ == "__main__":
+    print(f"monsters: {len(monsterlist)}")
+    print(f"obstacles: {len(ability_uses)}")
+    print("Mountain Path abilities:",
+          abilities_available_in_region("Mountain Path"))
+    print("Breakable Walls:", abilities_for_obstacle("Breakable Walls"))
+    print("Clears Distant Ledges Advanced in Snowy Peaks:",
+          region_clears("Snowy Peaks", "Distant Ledges Advanced"))

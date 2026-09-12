@@ -78,7 +78,7 @@ class LoreRemoval(Toggle):
     "Removes story from blocking gameplay"
     display_name = "Remove Story"
 
-#class ScoutHints(Toggle):
+class ScoutHints(Toggle):
     "adds hints to the game"
     display_name = "Hints"
 
@@ -90,7 +90,7 @@ class AlwaysDropEgg(Toggle):
     "Remove roadblocks from your game"
 
 @dataclass
-class MonsterSantuaryOptions(PerGameCommonOptions):
+class MonsterSanctuaryOptions(PerGameCommonOptions):
     goal: Goal
     champreq: GoalChampionReq
     startran: RandomizeStarter
@@ -99,6 +99,7 @@ class MonsterSantuaryOptions(PerGameCommonOptions):
     underche: UnderworldChecks
     forgeche: ForgottenChecks
     remlore: LoreRemoval
+    scouhint: ScoutHints
 
 
 option_groups = [
@@ -118,7 +119,7 @@ option_groups = [
     ]),
     OptionGroup("QOL",[
         LoreRemoval,
-        #ScoutHints,
+        ScoutHints,
         AlwaysDropEgg,
         #Openworld,
     ])
