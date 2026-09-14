@@ -1,0 +1,1092 @@
+{
+  "MountainPath": {
+    "MountainPath_North3": {
+      "6": "4560001",
+      "4": "4560002",
+      "3": "4560003",
+      "5": "4560004"
+    },
+    "MountainPath_North5": {
+      "9": "4560005",
+      "8": "4560006",
+      "6": "4560007"
+    },
+    "MountainPath_Center1": {
+      "5": "4560008"
+    },
+    "MountainPath_Center2": {
+      "4": "4560009",
+      "3": "4560010"
+    },
+    "MountainPath_Center3": {
+      "7": "4560011",
+      "6": "4560012",
+      "8": "4560013",
+      "9": "4560014"
+    },
+    "MountainPath_Center4": {
+      "0": "4560015",
+      "4": "4560016"
+    },
+    "MountainPath_Center5": {
+      "6": "4560017",
+      "13": "4560018"
+    },
+    "MountainPath_West1": {
+      "4": "4560019"
+    },
+    "MountainPath_West2": {
+      "22": "4560020",
+      "19": "4560021"
+    },
+    "MountainPath_North6": {
+      "1": "4560022",
+      "2": "4560023"
+    },
+    "MountainPath_West4": {
+      "3": "4560024",
+      "1": "4560025",
+      "6": "4560026"
+    },
+    "MountainPath_Center6": {
+      "5": "4560027",
+      "2": "4560028",
+      "10": "4560029",
+      "6": "4560030"
+    },
+    "MountainPath_WestHidden": {
+      "0": "4560031"
+    },
+    "MountainPath_Center7": {
+      "3": "4560032"
+    },
+    "MountainPath_SnowyEntrance2": {
+      "14": "4560033"
+    },
+    "MountainPath_North7": {
+      "1": "4560034"
+    },
+    "MountainPath_NorthHidden": {
+      "4": "4560035"
+    },
+    "MountainPath_WestHidden2": {
+      "1": "4560036"
+    }
+  },
+  "KeeperStronghold": {
+    "KeeperStronghold_WestTowers": {
+      "4": "4570001"
+    },
+    "KeeperStronghold_WestStairwell": {
+      "5": "4570002"
+    },
+    "KeeperStronghold_Storage": {
+      "5": "4570003",
+      "6": "4570004"
+    },
+    "KeeperStronghold_EndOfTime": {
+      "21": "4570005",
+      "20": "4570006"
+    }
+  },
+  "BlueCave": {
+    "BlueCave_Platforms": {
+      "3": "4580001",
+      "0": "4580002",
+      "1": "4580003"
+    },
+    "BlueCave_NorthFork": {
+      "7": "4580004",
+      "4": "4580005",
+      "12": "4580006",
+      "11": "4580007"
+    },
+    "BlueCave_West1": {
+      "0": "4580008",
+      "1": "4580009"
+    },
+    "BlueCave_East3": {
+      "1": "4580010",
+      "0": "4580011"
+    },
+    "BlueCave_South1": {
+      "5": "4580012"
+    },
+    "BlueCave_South2": {
+      "0": "4580013"
+    },
+    "BlueCave_South6": {
+      "4": "4580014"
+    },
+    "BlueCave_South4": {
+      "4": "4580015"
+    },
+    "BlueCave_South3": {
+      "1": "4580016",
+      "2": "4580017"
+    },
+    "BlueCave_CentralPart": {
+      "7": "4580018",
+      "9": "4580019",
+      "6": "4580020"
+    },
+    "BlueCave_East4": {
+      "1": "4580021",
+      "0": "4580022"
+    },
+    "BlueCave_Chains2": {
+      "3": "4580023",
+      "4": "4580024"
+    },
+    "BlueCave_WestStairwell2": {
+      "5": "4580025"
+    },
+    "BlueCave_WestWaters2": {
+      "5": "4580026",
+      "4": "4580027"
+    },
+    "BlueCave_ChampionRoom2": {
+      "3": "4580028"
+    },
+    "BlueCave_WestWatersHidden2": {
+      "0": "4580029",
+      "2": "4580030"
+    },
+    "BlueCave_AquaEntrance": {
+      "3": "4580031",
+      "1": "4580032"
+    },
+    "BlueCave_West2": {
+      "4": "4580033"
+    },
+    "BlueCave_WestHidden": {
+      "1": "4580034"
+    },
+    "BlueCave_WestWaters7": {
+      "2": "4580035",
+      "6": "4580036"
+    }
+  },
+  "StrongholdDungeon": {
+    "StrongholdDungeon_Jail": {
+      "5": "4590001",
+      "7": "4590002"
+    },
+    "StrongholdDungeon_JailHidden": {
+      "2": "4590003"
+    },
+    "StrongholdDungeon_North2": {
+      "17": "4590004"
+    },
+    "StrongholdDungeon_NorthHidden": {
+      "0": "4590005"
+    },
+    "StrongholdDungeon_North6": {
+      "18": "4590006"
+    },
+    "StrongholdDungeon_West1": {
+      "12": "4590007",
+      "5": "4590008"
+    },
+    "StrongholdDungeon_Central3": {
+      "15": "4590009",
+      "0": "4590010"
+    },
+    "StrongholdDungeon_Hidden1": {
+      "11": "4590011",
+      "10": "4590012",
+      "8": "4590013",
+      "12": "4590014"
+    },
+    "StrongholdDungeon_South1": {
+      "5": "4590015"
+    },
+    "StrongholdDungeon_West4": {
+      "15": "4590016"
+    },
+    "StrongholdDungeon_WestHidden": {
+      "3": "4590017"
+    },
+    "StrongholdDungeon_East1": {
+      "6": "4590018",
+      "7": "4590019",
+      "9": "4590020"
+    },
+    "StrongholdDungeon_EastKeys": {
+      "1": "4590021",
+      "0": "4590022"
+    },
+    "StrongholdDungeon_EastHidden": {
+      "0": "4590023"
+    },
+    "StrongholdDungeon_East3": {
+      "11": "4590024"
+    },
+    "StrongholdDungeon_East5": {
+      "10": "4590025"
+    },
+    "StrongholdDungeon_CentralHidden": {
+      "3": "4590026"
+    },
+    "StrongholdDungeon_Central5": {
+      "7": "4590027"
+    },
+    "StrongholdDungeon_North5": {
+      "3": "4590028"
+    },
+    "StrongholdDungeon_South4": {
+      "6": "4590029"
+    },
+    "StrongholdDungeon_West3": {
+      "9": "4590030"
+    },
+    "StrongholdDungeon_North4": {
+      "2": "4590031"
+    },
+    "StrongholdDungeon_Library2": {
+      "1": "4590032",
+      "2": "4590033"
+    }
+  },
+  "AncientWoods": {
+    "AncientWoods_WestDescent3": {
+      "12": "4600001"
+    },
+    "AncientWoods_SouthHidden1": {
+      "3": "4600002"
+    },
+    "AncientWoods_West6": {
+      "6": "4600003"
+    },
+    "AncientWoods_WestHidden2": {
+      "0": "4600004"
+    },
+    "AncientWoods_DoorPuzzle": {
+      "14": "4600005",
+      "15": "4600006",
+      "13": "4600007"
+    },
+    "AncientWoods_Center1": {
+      "0": "4600008",
+      "1": "4600009"
+    },
+    "AncientWoods_TreeOfEvolution": {
+      "7": "4600010"
+    },
+    "AncientWoods_Center5": {
+      "4": "4600011"
+    },
+    "AncientWoods_West5": {
+      "1": "4600012"
+    },
+    "AncientWoods_West4": {
+      "2": "4600013"
+    },
+    "AncientWoods_WestJumpPuzzle": {
+      "46": "4600014"
+    },
+    "AncientWoods_WestHidden": {
+      "2": "4600015"
+    },
+    "AncientWoods_West3": {
+      "0": "4600016"
+    },
+    "AncientWoods_West1": {
+      "4": "4600017"
+    },
+    "AncientWoods_Center6": {
+      "3": "4600018"
+    },
+    "AncientWoods_North5": {
+      "0": "4600019"
+    },
+    "AncientWoods_North3": {
+      "10": "4600020",
+      "11": "4600021"
+    },
+    "AncientWoods_East1": {
+      "6": "4600022"
+    },
+    "AncientWoods_Center7": {
+      "6": "4600023"
+    },
+    "AncientWoods_DarkRoom": {
+      "3": "4600024"
+    },
+    "AncientWoods_TorchesRoom": {
+      "7": "4600025",
+      "3": "4600026"
+    },
+    "AncientWoods_South3": {
+      "3": "4600027",
+      "7": "4600028"
+    },
+    "AncientWoods_DarkRoom2": {
+      "2": "4600029"
+    },
+    "AncientWoods_WestDescent2": {
+      "105": "4600030",
+      "4": "4600031"
+    },
+    "AncientWoods_East4": {
+      "0": "4600032",
+      "2": "4600033",
+      "4": "4600034"
+    },
+    "AncientWoods_South4": {
+      "1": "4600035"
+    },
+    "AncientWoods_SouthHidden3": {
+      "2": "4600036"
+    },
+    "AncientWoods_WestDescent": {
+      "12": "4600037"
+    }
+  },
+  "SnowyPeaks": {
+    "SnowyPeaks_East2": {
+      "4": "4610001",
+      "3": "4610002",
+      "7": "4610003"
+    },
+    "SnowyPeaks_East3": {
+      "10": "4610004",
+      "8": "4610005",
+      "9": "4610006"
+    },
+    "SnowyPeaks_East4": {
+      "5": "4610007"
+    },
+    "SnowyPeaks_East5": {
+      "17": "4610008"
+    },
+    "SnowyPeaks_West3": {
+      "5": "4610009",
+      "4": "4610010",
+      "7": "4610011"
+    },
+    "SnowyPeaks_West5": {
+      "4": "4610012",
+      "5": "4610013"
+    },
+    "SnowyPeaks_West4": {
+      "7": "4610014"
+    },
+    "SnowyPeaks_WestMountain2": {
+      "4": "4610015"
+    },
+    "SnowyPeaks_WestMountain3": {
+      "7": "4610016",
+      "8": "4610017"
+    },
+    "SnowyPeaks_WestMountain7": {
+      "6": "4610018"
+    },
+    "SnowyPeaks_WestMountainSecret": {
+      "2": "4610019"
+    },
+    "SnowyPeaks_EastMountain1": {
+      "10": "4610020",
+      "9": "4610021"
+    },
+    "SnowyPeaks_EastMountain4": {
+      "5": "4610022"
+    },
+    "SnowyPeaks_EastMountain5": {
+      "10": "4610023"
+    },
+    "SnowyPeaks_EastMountain3": {
+      "24": "4610024",
+      "15": "4610025",
+      "16": "4610026"
+    },
+    "SnowyPeaks_HighChallenge": {
+      "11": "4610027",
+      "12": "4610028"
+    },
+    "SnowyPeaks_EastMountain2": {
+      "23": "4610029",
+      "21": "4610030",
+      "22": "4610031"
+    },
+    "SnowyPeaks_EastMountainTop": {
+      "0": "4610032"
+    },
+    "SnowyPeaks_WestMountain6": {
+      "5": "4610033"
+    },
+    "SnowyPeaks_West2": {
+      "1": "4610034"
+    },
+    "SnowyPeaks_Lake": {
+      "9": "4610035",
+      "12": "4610036",
+      "10": "4610037"
+    },
+    "SnowyPeaks_ChampionRoom": {
+      "11": "4610038"
+    },
+    "SnowyPeaks_WestDark": {
+      "3": "4610039"
+    }
+  },
+  "SunPalace": {
+    "SunPalace_West1": {
+      "3": "4620001",
+      "5": "4620002"
+    },
+    "SunPalace_West2": {
+      "4": "4620003"
+    },
+    "SunPalace_West3": {
+      "2": "4620004"
+    },
+    "SunPalace_South3": {
+      "6": "4620005",
+      "5": "4620006"
+    },
+    "SunPalace_South1": {
+      "13": "4620007",
+      "5": "4620008",
+      "6": "4620009",
+      "7": "4620010",
+      "8": "4620011"
+    },
+    "SunPalace_EastSewers4": {
+      "4": "4620012"
+    },
+    "SunPalace_East3": {
+      "6": "4620013",
+      "5": "4620014"
+    },
+    "SunPalace_East1": {
+      "7": "4620015",
+      "8": "4620016",
+      "9": "4620017"
+    },
+    "SunPalace_East2": {
+      "2": "4620018"
+    },
+    "SunPalace_East4": {
+      "4": "4620019"
+    },
+    "SunPalace_Center": {
+      "13": "4620020"
+    },
+    "SunPalace_WestSewers1": {
+      "4": "4620021"
+    },
+    "SunPalace_WestSewers4": {
+      "4": "4620022",
+      "5": "4620023"
+    },
+    "SunPalace_WestSewersSecret": {
+      "1": "4620024",
+      "2": "4620025"
+    },
+    "SunPalace_West4": {
+      "0": "4620026",
+      "2": "4620027",
+      "4": "4620028"
+    },
+    "SunPalace_EastSewers6": {
+      "7": "4620029",
+      "5": "4620030"
+    },
+    "SunPalace_WestSewersSecret2": {
+      "0": "4620031"
+    }
+  },
+  "MagmaChamber": {
+    "MagmaChamber_West1": {
+      "41": "4630001"
+    },
+    "MagmaChamber_West6": {
+      "1": "4630002"
+    },
+    "MagmaChamber_West2": {
+      "4": "4630003"
+    },
+    "MagmaChamber_Center3": {
+      "1": "4630004"
+    },
+    "MagmaChamber_Center4": {
+      "0": "4630005",
+      "3": "4630006"
+    },
+    "MagmaChamber_West4": {
+      "3": "4630007",
+      "0": "4630008"
+    },
+    "MagmaChamber_North1": {
+      "5": "4630009"
+    },
+    "MagmaChamber_North3": {
+      "4": "4630010"
+    },
+    "MagmaChamber_North5": {
+      "3": "4630011"
+    },
+    "MagmaChamber_North7": {
+      "4": "4630012"
+    },
+    "MagmaChamber_East2": {
+      "3": "4630013"
+    },
+    "MagmaChamber_East1": {
+      "3": "4630014"
+    },
+    "MagmaChamber_Center10": {
+      "6": "4630015"
+    },
+    "MagmaChamber_Champion2": {
+      "7": "4630016",
+      "0": "4630017"
+    },
+    "MagmaChamber_South5": {
+      "20": "4630018",
+      "22": "4630019",
+      "21": "4630020"
+    },
+    "MagmaChamber_South3": {
+      "3": "4630021"
+    },
+    "MagmaChamber_TarPit": {
+      "0": "4630022"
+    },
+    "MagmaChamber_Champion": {
+      "3": "4630023"
+    },
+    "MagmaChamber_Center6": {
+      "12": "4630024"
+    },
+    "MagmaChamber_Center7": {
+      "1": "4630025"
+    },
+    "MagmaChamber_Center9": {
+      "12": "4630026"
+    },
+    "MagmaChamber_Center5": {
+      "0": "4630027"
+    },
+    "MagmaChamber_Center2": {
+      "16": "4630028",
+      "9": "4630029"
+    },
+    "MagmaChamber_CenterMagmaRoom": {
+      "1": "4630030",
+      "6": "4630031"
+    },
+    "MagmaChamber_South2": {
+      "1": "4630032"
+    },
+    "MagmaChamber_South7": {
+      "4": "4630033"
+    },
+    "MagmaChamber_South8": {
+      "0": "4630034",
+      "1": "4630035"
+    },
+    "MagmaChamber_South9": {
+      "8": "4630036"
+    },
+    "MagmaChamber_Center11": {
+      "15": "4630037",
+      "17": "4630038"
+    }
+  },
+  "ForgottenWorld": {
+    "ForgottenWorld_MCPath3": {
+      "3": "4640001"
+    },
+    "ForgottenWorld_MCPath2": {
+      "12": "4640002"
+    },
+    "ForgottenWorld_MCPath1": {
+      "0": "4640003"
+    },
+    "ForgottenWorld_CavesStudy": {
+      "15": "4640004"
+    },
+    "ForgottenWorld_Caves9": {
+      "2": "4640005"
+    },
+    "ForgottenWorld_Caves5": {
+      "12": "4640006",
+      "5": "4640007",
+      "4": "4640008"
+    },
+    "ForgottenWorld_Caves1": {
+      "1": "4640009"
+    },
+    "ForgottenWorld_Jungle1": {
+      "1": "4640010",
+      "3": "4640011"
+    },
+    "ForgottenWorld_TarPits1": {
+      "1": "4640012"
+    },
+    "ForgottenWorld_TarPits3": {
+      "0": "4640013",
+      "1": "4640014"
+    },
+    "ForgottenWorld_TarPits4": {
+      "5": "4640015"
+    },
+    "ForgottenWorld_TarPits8": {
+      "0": "4640016"
+    },
+    "ForgottenWorld_WorldTree": {
+      "1": "4640017"
+    },
+    "ForgottenWorld_Caves6": {
+      "5": "4640018",
+      "8": "4640019"
+    },
+    "ForgottenWorld_DarkRoom": {
+      "14": "4640020"
+    },
+    "ForgottenWorld_Waters1": {
+      "5": "4640021"
+    },
+    "ForgottenWorld_Waters2": {
+      "4": "4640022",
+      "5": "4640023"
+    },
+    "ForgottenWorld_DracomerLair": {
+      "2": "4640024"
+    },
+    "ForgottenWorld_Waters5": {
+      "3": "4640025",
+      "4": "4640026"
+    },
+    "ForgottenWorld_TarPits5": {
+      "1": "4640027"
+    },
+    "ForgottenWorld_TarPits9": {
+      "0": "4640028"
+    },
+    "ForgottenWorld_FallHidden": {
+      "3": "4640029",
+      "2": "4640030",
+      "0": "4640031"
+    },
+    "ForgottenWorld_TerradrileLair2": {
+      "8": "4640032",
+      "3": "4640033"
+    },
+    "ForgottenWorld_TerradrileLair1": {
+      "2": "4640034"
+    },
+    "ForgottenWorld_Caves2": {
+      "8": "4640035"
+    },
+    "ForgottenWorld_Jungle5": {
+      "0": "4640036"
+    },
+    "ForgottenWorld_Jungle6": {
+      "34": "4640037",
+      "3": "4640038",
+      "0": "4640039"
+    },
+    "ForgottenWorld_ClimbPuzzle": {
+      "2": "4640040",
+      "3": "4640041"
+    },
+    "ForgottenWorld_Climb1": {
+      "11": "4640042"
+    },
+    "ForgottenWorld_Climb2": {
+      "4": "4640043",
+      "3": "4640044",
+      "5": "4640045"
+    },
+    "ForgottenWorld_Climb3": {
+      "3": "4640046"
+    },
+    "ForgottenWorld_Climb4": {
+      "14": "4640047",
+      "23": "4640048",
+      "13": "4640049",
+      "10": "4640050",
+      "9": "4640051",
+      "11": "4640052"
+    },
+    "ForgottenWorld_ClimbSide": {
+      "3": "4640053",
+      "1": "4640054"
+    },
+    "ForgottenWorld_Climb5": {
+      "3": "4640055"
+    },
+    "ForgottenWorld_JungleHidden": {
+      "23": "4640056"
+    },
+    "ForgottenWorld_Jungle3": {
+      "1": "4640057"
+    },
+    "ForgottenWorld_WatersHidden": {
+      "11": "4640058"
+    }
+  },
+  "HorizonBeach": {
+    "HorizonBeach_West1": {
+      "0": "4650001"
+    },
+    "HorizonBeach_West3": {
+      "0": "4650002",
+      "3": "4650003"
+    },
+    "HorizonBeach_West4": {
+      "3": "4650004"
+    },
+    "HorizonBeach_Center1": {
+      "3": "4650005"
+    },
+    "HorizonBeach_South4": {
+      "2": "4650006"
+    },
+    "HorizonBeach_TreasureCave2": {
+      "2": "4650007"
+    },
+    "HorizonBeach_TreasureCave3": {
+      "2": "4650008"
+    },
+    "HorizonBeach_TreasureCave5": {
+      "3": "4650009"
+    },
+    "HorizonBeach_Champion": {
+      "7": "4650010",
+      "0": "4650011"
+    },
+    "HorizonBeach_FWEntrance1": {
+      "2": "4650012"
+    },
+    "HorizonBeach_South6": {
+      "10": "4650013",
+      "6": "4650014"
+    },
+    "HorizonBeach_Labyrinth": {
+      "27": "4650015",
+      "28": "4650016"
+    },
+    "HorizonBeach_Center2": {
+      "3": "4650017",
+      "5": "4650018"
+    },
+    "HorizonBeach_Center3": {
+      "5": "4650019"
+    },
+    "HorizonBeach_Center4": {
+      "4": "4650020",
+      "9": "4650021"
+    },
+    "HorizonBeach_Center6": {
+      "0": "4650022"
+    },
+    "HorizonBeach_East6": {
+      "0": "4650023",
+      "2": "4650024"
+    },
+    "HorizonBeach_East5": {
+      "3": "4650025",
+      "4": "4650026"
+    },
+    "HorizonBeach_East2": {
+      "57": "4650027",
+      "53": "4650028",
+      "58": "4650029",
+      "55": "4650030"
+    },
+    "HorizonBeach_Fisher": {
+      "2": "4650031"
+    },
+    "HorizonBeach_East3": {
+      "4": "4650032"
+    },
+    "HorizonBeach_Center5": {
+      "6": "4650033",
+      "3": "4650034"
+    },
+    "HorizonBeach_EastHidden": {
+      "1": "4650035"
+    },
+    "HorizonBeach_EastChampion": {
+      "1": "4650036",
+      "3": "4650037"
+    },
+    "HorizonBeach_Pit": {
+      "2": "4650038"
+    }
+  },
+  "Underworld": {
+    "Underworld_East5": {
+      "2": "4660001"
+    },
+    "Underworld_EastCatacomb6": {
+      "4": "4660002",
+      "1": "4660003"
+    },
+    "Underworld_EastCatacomb4": {
+      "3": "4660004"
+    },
+    "Underworld_EastCatacomb3": {
+      "13": "4660005"
+    },
+    "Underworld_EastCatacomb9": {
+      "1": "4660006",
+      "4": "4660007"
+    },
+    "Underworld_WestCatacomb4": {
+      "11": "4660008",
+      "8": "4660009"
+    },
+    "Underworld_Center3": {
+      "2": "4660010"
+    },
+    "Underworld_WestCatacomb1": {
+      "8": "4660011"
+    },
+    "Underworld_WestCatacomb3": {
+      "9": "4660012"
+    },
+    "Underworld_WestCatacomb7": {
+      "5": "4660013"
+    },
+    "Underworld_Center2": {
+      "7": "4660014"
+    },
+    "Underworld_WestCatacomb9": {
+      "7": "4660015",
+      "11": "4660016",
+      "10": "4660017",
+      "12": "4660018"
+    },
+    "Underworld_West1": {
+      "3": "4660019"
+    },
+    "Underworld_West6": {
+      "1": "4660020"
+    },
+    "Underworld_CenterHidden": {
+      "1": "4660021",
+      "0": "4660022"
+    },
+    "Underworld_EastCatacomb5": {
+      "9": "4660023"
+    },
+    "Underworld_EastCatacomb10": {
+      "5": "4660024",
+      "4": "4660025"
+    },
+    "Underworld_East4": {
+      "3": "4660026"
+    },
+    "Underworld_East3": {
+      "3": "4660027",
+      "4": "4660028"
+    },
+    "Underworld_WestCatacomb10": {
+      "3": "4660029",
+      "0": "4660030"
+    }
+  },
+  "MysticalWorkshop": {
+    "MysticalWorkshop_South5": {
+      "5": "4670001",
+      "7": "4670002"
+    },
+    "MysticalWorkshop_South4": {
+      "19": "4670003",
+      "18": "4670004"
+    },
+    "MysticalWorkshop_Center6": {
+      "3": "4670005"
+    },
+    "MysticalWorkshop_West3": {
+      "0": "4670006"
+    },
+    "MysticalWorkshop_Center4": {
+      "1": "4670007"
+    },
+    "MysticalWorkshop_Center5": {
+      "5": "4670008",
+      "6": "4670009",
+      "3": "4670010"
+    },
+    "MysticalWorkshop_Center9": {
+      "0": "4670011"
+    },
+    "MysticalWorkshop_Center7": {
+      "1": "4670012",
+      "0": "4670013"
+    },
+    "MysticalWorkshop_Center8": {
+      "6": "4670014"
+    },
+    "MysticalWorkshop_West2": {
+      "8": "4670015",
+      "9": "4670016"
+    },
+    "MysticalWorkshop_Center3": {
+      "0": "4670017",
+      "1": "4670018"
+    },
+    "MysticalWorkshop_East1": {
+      "9": "4670019"
+    },
+    "MysticalWorkshop_East3": {
+      "3": "4670020"
+    },
+    "MysticalWorkshop_East2": {
+      "1": "4670021"
+    },
+    "MysticalWorkshop_North2": {
+      "1": "4670022"
+    },
+    "MysticalWorkshop_North4": {
+      "9": "4670023",
+      "8": "4670024"
+    },
+    "MysticalWorkshop_North3": {
+      "5": "4670025"
+    },
+    "MysticalWorkshop_North1": {
+      "1": "4670026",
+      "0": "4670027"
+    },
+    "MysticalWorkshop_North6": {
+      "0": "4670028"
+    },
+    "MysticalWorkshop_Hidden": {
+      "3": "4670029",
+      "1": "4670030",
+      "0": "4670031"
+    },
+    "MysticalWorkshop_South6": {
+      "0": "4670032"
+    }
+  },
+  "AbandonedTower": {
+    "AbandonedTower_South2": {
+      "1": "4680001"
+    },
+    "AbandonedTower_South3": {
+      "1": "4680002"
+    },
+    "AbandonedTower_South5": {
+      "3": "4680003"
+    },
+    "AbandonedTower_South7": {
+      "3": "4680004",
+      "7": "4680005"
+    },
+    "AbandonedTower_South6": {
+      "3": "4680006"
+    },
+    "AbandonedTower_Center2": {
+      "3": "4680007"
+    },
+    "AbandonedTower_Center3": {
+      "1": "4680008",
+      "11": "4680009",
+      "10": "4680010"
+    },
+    "AbandonedTower_South8": {
+      "3": "4680011",
+      "7": "4680012"
+    },
+    "AbandonedTower_Center6": {
+      "5": "4680013"
+    },
+    "AbandonedTower_Center9": {
+      "8": "4680014"
+    },
+    "AbandonedTower_Center11": {
+      "5": "4680015",
+      "1": "4680016"
+    },
+    "AbandonedTower_Center10": {
+      "5": "4680017"
+    },
+    "AbandonedTower_Center12": {
+      "7": "4680018"
+    },
+    "AbandonedTower_North4": {
+      "5": "4680019"
+    },
+    "AbandonedTower_North3": {
+      "5": "4680020"
+    },
+    "AbandonedTower_North5": {
+      "8": "4680021"
+    },
+    "AbandonedTower_North7": {
+      "8": "4680022"
+    },
+    "AbandonedTower_NorthHidden": {
+      "1": "4680023",
+      "2": "4680024"
+    },
+    "AbandonedTower_Center5": {
+      "4": "4680025"
+    },
+    "AbandonedTower_SouthHidden2": {
+      "0": "4680026",
+      "3": "4680027"
+    },
+    "AbandonedTower_SouthHidden1": {
+      "1": "4680028"
+    }
+  },
+  "BlobBurg": {
+    "BlobBurg_East2": {
+      "2": "4690001"
+    },
+    "BlobBurg_EastHidden": {
+      "2": "4690002"
+    },
+    "BlobBurg_East3": {
+      "1": "4690003"
+    },
+    "BlobBurg_Center1": {
+      "8": "4690004"
+    },
+    "BlobBurg_Center2": {
+      "0": "4690005",
+      "3": "4690006"
+    },
+    "BlobBurg_East4": {
+      "1": "4690007"
+    },
+    "BlobBurg_East5": {
+      "3": "4690008"
+    },
+    "BlobBurg_Center3": {
+      "3": "4690009"
+    },
+    "BlobBurg_Center4": {
+      "4": "4690010"
+    },
+    "BlobBurg_South2": {
+      "3": "4690011",
+      "0": "4690012",
+      "1": "4690013"
+    },
+    "BlobBurg_West1": {
+      "3": "4690014",
+      "10": "4690015",
+      "1": "4690016"
+    },
+    "BlobBurg_West2": {
+      "0": "4690017"
+    },
+    "BlobBurg_Champion": {
+      "1": "4690018"
+    },
+    "BlobBurg_Worms": {
+      "3": "4690019",
+      "4": "4690020"
+    }
+  }
+}
