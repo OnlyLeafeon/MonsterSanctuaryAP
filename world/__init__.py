@@ -7,7 +7,7 @@ from .items import MonsterSanctuaryItem, item_table, item_name_to_id, item_name_
 from .locations import MonsterSanctuaryLocation, location_table
 from .options import MonsterSanctuaryOptions, option_groups
 from .regions import create_regions as build_regions
-from .rules import set_rules as apply_rules
+from .rules import set_rules as apply_rules, RuleFactory
 
 
 class MonsterSanctuaryWebWorld(WebWorld):
@@ -43,6 +43,9 @@ class MonsterSanctuaryWorld(World):
 
     data_version = 1
 
+    def generate_early(self) -> None:
+        RuleFactory.set_seed(self.multiworld.seed_name)
+  
     def create_item(self, name: str) -> MonsterSanctuaryItem:
         item_def = next(item for item in item_table if item.name == name)
         return MonsterSanctuaryItem(item_def.name, item_def.classification, item_def.id, self.player)
